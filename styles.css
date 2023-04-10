@@ -7,15 +7,20 @@ img{
     width: auto;
 }
 
-ul{
-    margin-left: 30%;
-    margin-right: 30%;
+ul , ol{
+    padding-left: 20%;
+    padding-right: 20%;
 }
 
 .container{
     text-align: center;
     margin-left: 30%;
     margin-right: 30%;
+}
+
+.container.center-index{
+    margin-top: 20%;
+    margin-bottom: 20%;
 }
 
 
